@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 import os
 import re
 import json
